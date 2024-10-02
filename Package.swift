@@ -21,8 +21,8 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "MealzSharedAnalytics",
-            url: "https://github.com/MealzStaging/MealzSharedAnalyticsRelease/raw/release/0.3.2/mealzSharedAnalytics.zip",
-            checksum: "74053254a854e65113cc436e8ec04791a5751494769635c4cb2c62e68acd993d"
+            url: "https://github.com/MealzStaging/MealzSharedAnalyticsRelease/raw/release/1.0.0/mealzSharedAnalytics.zip",
+            checksum: "7128a812a9c63a1c8d25ba0b12de0c213ff66642c4d9246df255eb35828b76f0"
         )
     ]
 )
